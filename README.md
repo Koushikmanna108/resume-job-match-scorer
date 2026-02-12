@@ -45,14 +45,14 @@ This tool helps job seekers evaluate resume relevance, improve keyword alignment
 ---
 
 ## 📂 Project Structure
-
+```
 resume-job-match-scorer/
 │
 ├── app.py # Main Streamlit application
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
 
-
+```
 ---
 
 ## 📦 Installation & Setup
